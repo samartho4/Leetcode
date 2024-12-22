@@ -1,3 +1,11 @@
+function map(arr, fn) {
+    const result = []; // Initialize an empty array to store the transformed elements
+    for (let i = 0; i < arr.length; i++) {
+        result.push(fn(arr[i], i)); // Apply the function `fn` to each element and its index
+    }
+    return result; // Return the transformed array
+}
+
 /**
  * @param {number[]} arr
  * @param {Function} fn
