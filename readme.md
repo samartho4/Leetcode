@@ -14,6 +14,8 @@ As of December 18, 2024, I have started my journey to solve LeetCode problems re
 | 5       | December 20, 2024 | Week 01 / Day 03 | Solved "Counter" (Easy).                     |
 | 6       | December 20, 2024 | Week 01 / Day 03 | Solved "Create Hello World Function" (Easy). |
 | 7       | December 21, 2024 | Week 01 / Day 04 | Solved "Apply Transform Over Each Element in Array" (Easy). |
+| 8       | December 21, 2024 | Week 01 / Day 04 | Solved "Filter Elements from Array" (Easy).       |
+| 9       | December 21, 2024 | Week 01 / Day 04 | Solved "Array Reduce Transformation" (Easy).      |
 
 ---
 
