@@ -35,6 +35,9 @@ As of December 18, 2024, I have started my journey to solve LeetCode problems re
 | 26      | December 25, 2024   | Week 01 / Day 08 / array_prototype_last | Solved "Array Prototype Last".              |
 | 27      | December 25, 2024   | Week 01 / Day 08 / chunk_array      | Solved "Chunk Array".                          |
 | 28      | December 25, 2024   | Week 01 / Day 08 / flatten_deeply_nested_array | Solved "Flatten Deeply Nested Array".       |
+ 29 | December 26, 2024  | Week 02 / Day 02                 | Solved "EventEmitter".                |
+| 30 | December 26, 2024  | Week 02 / Day 02                 | Solved "Array Wrapper".               |
+| 31 | December 26, 2024  | Week 02 / Day 02                 | Solved "Calculator with Method Chaining". |
 
 ---
 
