@@ -27,6 +27,15 @@ As of December 18, 2024, I have started my journey to solve LeetCode problems re
 | 18          | December 23, 2024 | Week 01 / Day 06    | Solved "Promise Time Limit".                    |
 | 19          | December 23, 2024 | Week 01 / Day 06    | Solved "Cache With Time Limit".                 |
 | 20          | December 23, 2024 | Week 01 / Day 06    | Solved "Debounce".                              |
+| 21      | December 24, 2024   | Week 01 / Day 07 / execute_asynchronous_functions | Solved "Execute Asynchronous Functions in Parallel". |
+| 22      | December 24, 2024   | Week 01 / Day 07 / is_object_empty  | Solved "Is Object Empty".                      |
+| 23      | December 25, 2024   | Week 01 / Day 08 / join_two_arrays_by_id | Solved "Join Two Arrays by ID".              |
+| 24      | December 25, 2024   | Week 01 / Day 08 / group_by         | Solved "Group By".                             |
+| 25      | December 25, 2024   | Week 01 / Day 08 / sort_by          | Solved "Sort By".                              |
+| 26      | December 25, 2024   | Week 01 / Day 08 / array_prototype_last | Solved "Array Prototype Last".              |
+| 27      | December 25, 2024   | Week 01 / Day 08 / chunk_array      | Solved "Chunk Array".                          |
+| 28      | December 25, 2024   | Week 01 / Day 08 / flatten_deeply_nested_array | Solved "Flatten Deeply Nested Array".       |
+
 ---
 
 ## Author
