@@ -16,8 +16,11 @@ As of December 18, 2024, I have started my journey to solve LeetCode problems re
 | 8       | December 24, 2024 | Week 02 / Day 01                 | Worked with object and data structure operations. |
 | 9       | December 25, 2024 | Week 02 / Day 02                 | Solved problems related to grouping and flattening arrays. |
 | 10      | December 26, 2024 | Week 02 / Day 03                 | Completed challenges involving method chaining and custom data structures. |
-| 11      | December 27, 2024 | Week 02 / Day 04                 | Solved dataframe-related tasks.                |
-| 12      | December 28, 2024 | Week 02 / Day 05                 | Worked on dynamic solutions for advanced problems. |
+| 11      | December 27, 2024 | Week 02 / Day 04                 | Pandas Challenge.                |
+| 12      | December 28, 2024 | Week 02 / Day 05                 | Pandas Challenge. |
+| 13      | December 29, 2024 | Week 02 / Day 06                 | Pandas Challenge.  |
+| 14      | December 30, 2024 | Week 02 / Day 07                 | Pandas Challenge  |
+| 15      | December 31, 2024 | Week 03 / Day 01                 | Pandas Challenge |
 
 
 ## Author
