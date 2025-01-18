@@ -10,7 +10,59 @@ class Solution{
             }
         }
         return new int[]{};
+    }class Solution{
+    public int[] twoSum(int[] nums, int target){
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i=0; i<nums.length;i++){
+            if(map.containsKey(target - nums[i])){
+                return new int[]{map.get(target - nums[i]), i};
+            }
+            map.put(nums[i], i);
+        }
+        return new int[]{};
     }
+}
+class Solution {
+    public boolean isPalindrome(int x) {
+        if (x < 0 || (x != 0 && x % 10 == 0)) return false;
+        int reversedHalf = 0;
+        while (x > reversedHalf) {
+            int digit = x % 10; 
+            reversedHalf = reversedHalf * 10 + digit; 
+            x /= 10; 
+        }
+        return x == reversedHalf || x == reversedHalf / 10;
+    
+    }
+}
+public class Solution {
+    public boolean isAnagram(String s, String t) {
+        if (s.length() != t.length()) {
+            return false;
+        }
+
+        char[] sArray = s.toCharArray();
+        char[] tArray = t.toCharArray();
+        Arrays.sort(sArray);
+        Arrays.sort(tArray);
+        return Arrays.equals(sArray, tArray);
+    }
+}
+import java.util.ArrayList;
+import java.util.List;
+
+class Solution {
+    public List<String> fizzBuzz(int n) {
+        List<String> result = new ArrayList<>();
+        for (int i = 1; i <= n; i++) {
+            String str = "";
+            if (i % 3 == 0) str += "Fizz";
+            if (i % 5 == 0) str += "Buzz";
+            result.add(str.isEmpty() ? Integer.toString(i) : str);
+        }
+        return result;
+    }
+}
 }
 class Solution {
     public boolean isPalindrome(int x) {
